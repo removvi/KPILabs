@@ -1,3 +1,5 @@
+'use strict'
+//Exmple 2
 function rangeOdd(start, end) {
   const result = [];
   for (let i = start; i <= end; i++) {
