@@ -1,3 +1,4 @@
+'use ctrict'
 const phoneBook = [
   { name: "Marcus Aurelius", phone: "+380445554433" },
   { name: "Lucius Verus", phone: "+380501112233" },
